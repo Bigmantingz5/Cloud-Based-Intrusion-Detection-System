@@ -17,7 +17,5 @@ Tools
 
 -Sckit-learn
 
--Google Cloud Computing Engine
-
 -Amazon AWS
 
