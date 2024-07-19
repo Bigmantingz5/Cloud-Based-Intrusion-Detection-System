@@ -12,8 +12,12 @@ MAIN OBJECTIVE
 The aim of this project is to develop a scalable and adaptive cloud-based intrusion detection system utilizing machine learning techniques, such as the Random Forest algorithm, to enhance detection accuracy and frequency of the cyber-attacks mitigate cyber threats in real-time. This will contribute to the enhancement of the security of our cloud based systems.
 
 Tools
+
 -Python 
+
 -Sckit-learn
+
 -Google Cloud Computing Engine
+
 -Amazon AWS
 
